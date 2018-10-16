@@ -30,6 +30,8 @@
   padding-top: 20px;
 }
 
+//------------Tables--------------------
+
 .no-border, .no-border td {
   border: none;
   text-align: center;
@@ -41,6 +43,20 @@
   padding: 0;
   margin: 0;
 }
+
+.border, .border td {
+  border: 1px solid #000;
+  text-align: center;
+  vertical-align: middle;
+  padding: 5px;
+}
+
+.no-border img {
+  padding: 0;
+  margin: 0;
+}
+
+//--------------------------------------
 
 .hide {
   display: none;
@@ -85,4 +101,12 @@
 .botao:active {
   position:relative;
   top:1px;
+}
+
+.video_container {
+  iframe {
+    height: 400px;
+    max-width: 640px;
+    width: 100%;
+  }
 }
