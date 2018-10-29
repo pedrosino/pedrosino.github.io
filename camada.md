@@ -12,8 +12,8 @@ Neste passo vamos formar uma cor completa. Mas é preciso atentar também para a
     <td>Errado</td>
   </tr>
   <tr>
-    <td><img src="images/camadacerta.png" class="two-cubes"></td>
-    <td><img src="images/camadaerrada.png" class="two-cubes"></td>
+    <td><img src="images/camadaboa.png" class="two-cubes"></td>
+    <td><img src="images/camadaruim.png" class="two-cubes"></td>
   </tr>
 </table>
 
@@ -21,8 +21,7 @@ Vamos deixar a cor da cruz para baixo e posicionar os cantos um de cada vez. Par
 
 <table class="no-border">
   <tr>
-    <td><img src="images/camada1a.png" class="two-cubes"></td>
-    <td><img src="images/camada1b.png" class="two-cubes"></td>
+    <td><img src="images/camada1.png" class="two-cubes"></td>
   </tr>
 </table>
 
@@ -66,7 +65,7 @@ Pode acontecer de você não encontrar nenhum canto nestas situações fáceis. 
 
 
 <figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/8IF4Sm00DDE" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe src="https://www.youtube.com/embed/LS9fVx7o2Y8" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
-### [Vamos começar? Veja o primeiro passo](cruz.html)
+### [Agora vamos fazer a segunda camada](segunda.html)
