@@ -39,11 +39,11 @@ Depois disso você terá tirado um canto da primeira camada, mas agora ele está
 
 <table class="no-border">
   <tr>
-    <td><img src="images/segundadireita.png" class="two-cubes"></td>
+    <td style="border-right: 1px solid #000;"><img src="images/segundadireita.png" class="two-cubes"></td>
     <td><img src="images/segundaesquerda.png" class="two-cubes"></td>
   </tr>
   <tr>
-    <td><img src="images/2adireita.png" class="two-cubes"></td>
+    <td style="border-right: 1px solid #000;"><img src="images/2adireita.png" class="two-cubes"></td>
     <td><img src="images/2aesquerda.png" class="two-cubes"></td>
   </tr>
 </table>
