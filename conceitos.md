@@ -30,18 +30,18 @@ Os centros são fixos no eixo do cubo, por meio de parafusos, então eles sempre
 
 #### Camadas e faces
 
-O cubo tem 6 faces (cores), como já vimos, e tem 3 camadas em cada eixo. Vamos resolvê-lo uma camada de cada vez, de cima para baixo:
+O cubo tem 6 faces (cores), como já vimos, e tem 3 camadas em cada eixo. Vamos resolvê-lo uma camada de cada vez, de baixo para cima:
 
 <table class="no-border">
-  <tr>
+  <!--tr>
     <td>Centros</td>
     <td>Meios</td>
     <td>Cantos</td>
-  </tr>
+  </tr-->
   <tr>
-    <td><img src="images/camada1.png" class="three-cubes"></td>
-    <td><img src="images/camada2.png" class="three-cubes"></td>
-    <td><img src="images/camada3.png" class="three-cubes"></td>
+    <td><img src="images/camadaboa.png" class="three-cubes"></td>
+    <td><img src="images/segunda.png" class="three-cubes"></td>
+    <td><img src="images/completo.png" class="three-cubes"></td>
   </tr>
 </table>
 
