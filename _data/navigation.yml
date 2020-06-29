@@ -1,0 +1,20 @@
+- name: Início
+  link: /
+- name: Conceitos
+  link: /conceitos.html
+- name: Passo 1
+  link: /cruz.html
+- name: Passo 2
+  link: /camada.html
+- name: Passo 3
+  link: /segunda.html
+- name: Passo 4
+  link: /cruzcima.html
+- name: Passo 5
+  link: /cantoscima.html
+- name: Passo 6
+  link: /poscantos.html
+- name: Passo 7
+  link: /posmeios.html
+- name: Contato
+  link: /contato.html
